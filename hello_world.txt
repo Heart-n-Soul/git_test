@@ -1,0 +1,1 @@
+Hello everyone, welcome to my git project in the Odin project's full stack web development course. I am hoping to complete this course and build more projects and get my first job.
